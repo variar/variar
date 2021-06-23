@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/ananda__nath" target="blank"><img src="https://img.shields.io/twitter/follow/ananda__nath?logo=twitter&style=for-the-badge" alt="ananda__nath" /></a> </p>
 
-- 🔭 I’m currently working on [klogg](klogg.filomonov.dev)
+- 🔭 I’m currently working on [klogg](https://klogg.filomonov.dev)
 
-- 📄 Know about my experiences and projects [cv.filimonov.dev](cv.filimonov.dev)
+- 📄 Know about my experiences and projects [cv.filimonov.dev](https://cv.filimonov.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
